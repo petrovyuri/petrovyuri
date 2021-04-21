@@ -12,8 +12,6 @@ Skills: Flutter / Dart / Android / Java / Kotlin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=petrovyuri&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=petrovyuri)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=petrovyuri)  
 
 ![Profile views](https://gpvc.arturio.dev/petrovyuri)  
