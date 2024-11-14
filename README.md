@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Yura. I'm a Flutter TeachLead.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=petrovyuri)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=petrovyuri&show_icons=true&count_private=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrovyuri)](https://github.com/anuraghazra/github-readme-stats) 
