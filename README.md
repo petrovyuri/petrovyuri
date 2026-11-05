@@ -1,6 +1,4 @@
-### Hi there 👋, my name is Yura. I'm a Flutter TeachLead.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=petrovyuri&show_icons=true&count_private=true) 
+### Hi there 👋, my name is Yura.
 
 ![](https://img.shields.io/badge/Favourite-green?style=for-the-badge) [![](https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart)](https://dart.dev/) [![](https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter)](http://flutter.dev/) 
 
